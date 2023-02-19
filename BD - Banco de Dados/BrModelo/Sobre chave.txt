@@ -1,0 +1,13 @@
+- Chave Estrangeira: só pd existir quado a chave primaria for de outra tabela
+* ela vincula o produto com o fornecedor dele
+
+
+Cupom Fiscal
+- Codigo (chave primaria)
+- Code Cliente (secundaria)
+- Cod Produto (secundaria)
+- Nome Produto 
+- Valor
+- Quantiddade 
+- Code Funcionario (secundaria)
+- Nome Funcionario
