@@ -1,0 +1,25 @@
+/*
+CRIANDO A RELAÇÃO ENTRE AS TABELAS
+1 - Clicar na aba de Banco de Dados (Database) ao lado esquerdo;
+2 - Abrir a base de dados desejada;
+3 - Clicar com o botão direito do mouse na aba Diagrama de Banco de Dados (Database Diagram)
+4 - Novo Diagrama de Banco de Dados (New Database Diagram)
+5 - Escolha todos as tabelas e insira;
+6 - Close
+
+/*
+TEORIA DOS CONJUNTOS E OS JOINS DE BANCO DE DADOS
+
+O JOIN é uma cláusula da linguagem SQL que permite criar consultas combinando resultados de uma ou duas tabelas por meio de valores comuns entre uma ou várias colunas de cada tabela. Quando se fala em uma tabela, 
+a referência é feita a casos específicos chamamos de JOIN de uma tabela com ela mesmo.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------- */
+/*
+COMANDO INNER JOIN
+O JOIN é uma consulta os registros de duas tabelas, verificando todos os registros de cada uma e selecionando os que têm valores em comum, com base 
+no critérios estabelecido no JOIN. Neste banco de dados, criamos três tabelas, sendo Clientes, Produtos e Vrndas. Estabelecemos dois relacionamentos
+entre Clientes e Vendas, e entre as tabelas Proditos e Vendas, desta forma não é possível inserir Vendas com Clientes que não existem, mas é possível
+que existam Clientes que não realizam Vendas. Para listar o Nome de cada Cliente e a DataVenda também de cada cliente, podemos usar o comando INNER JOIN
+
+Exemplo:
+*/

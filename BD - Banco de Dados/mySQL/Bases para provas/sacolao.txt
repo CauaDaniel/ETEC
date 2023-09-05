@@ -1,0 +1,60 @@
+CREATE TABLE clientes (
+    id_cliente INT PRIMARY KEY,
+    nome VARCHAR(50),
+    telefone VARCHAR(20),
+    endereco VARCHAR(100)
+);
+
+INSERT INTO clientes (id_cliente, nome, telefone, endereco) VALUES
+(1, 'Maria Silva', '11 99999-1234', 'Rua das Flores, 123 - São Paulo/SP'),
+(2, 'João Santos', '21 98888-5678', 'Av. da Praia, 456 - Rio de Janeiro/RJ'),
+(3, 'Pedro Souza', '31 97777-9876', 'Rua das Árvores, 789 - Belo Horizonte/MG'),
+(4, 'Ana Oliveira', '41 95555-5555', 'Av. do Sol, 1010 - Curitiba/PR'),
+(5, 'José Rodrigues', '51 94444-4321', 'Rua dos Passarinhos, 222 - Porto Alegre/RS'),
+(6, 'Carla Costa', '11 98888-8888', 'Rua dos Pinheiros, 456 - São Paulo/SP');
+
+CREATE TABLE produtos (
+    id_produto INT PRIMARY KEY,
+    nome VARCHAR(50),
+    preco DECIMAL(5,2),
+    unidade_de_medida VARCHAR(5)
+);
+
+INSERT INTO produtos (id_produto, nome, preco, unidade_de_medida) VALUES
+(1, 'Maçã', 3.50, 'kg'),
+(2, 'Banana', 2.50, 'kg'),
+(3, 'Tomate', 4.20, 'kg'),
+(4, 'Cenoura', 1.80, 'kg'),
+(5, 'Alface', 2.00, 'unidade');
+
+CREATE TABLE vendas (
+    id_venda INT PRIMARY KEY,
+    data DATE,
+    id_cliente INT,
+    FOREIGN KEY (id_cliente) REFERENCES clientes (id_cliente)
+);
+
+INSERT INTO vendas (id_venda, data, id_cliente) VALUES
+(1, '2023-04-01', 1),
+(2, '2023-04-02', 3),
+(3, '2023-04-02', 2),
+(4, '2023-04-03', 5),
+(5, '2023-04-03', 4);
+
+CREATE TABLE itens_venda (
+    id_item_venda INT PRIMARY KEY,
+    id_venda INT,
+    id_produto INT,
+    quantidade DECIMAL(5,2),
+    FOREIGN KEY (id_venda) REFERENCES vendas (id_venda),
+    FOREIGN KEY (id_produto) REFERENCES produtos (id_produto)
+);
+
+INSERT INTO itens_venda (id_item_venda, id_venda, id_produto, quantidade) VALUES
+(1, 1, 1, 2.5),
+(2, 2, 2, 1.5),
+(3, 2, 3, 3),
+(4, 3, 4, 4),
+(5, 4, 5, 3);
+
+SELECT * FROM clientes;
