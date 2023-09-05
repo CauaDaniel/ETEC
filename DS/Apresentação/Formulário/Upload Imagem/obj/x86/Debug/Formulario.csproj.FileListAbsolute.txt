@@ -1,0 +1,9 @@
+D:\Formulário\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+D:\Formulário\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb
+D:\Formulário\Upload Imagem\bin\Debug\Upload Imagem.exe
+D:\Formulário\Upload Imagem\bin\Debug\Upload Imagem.pdb
+D:\Formulário\Upload Imagem\obj\x86\Debug\Upload_Imagem.Form1.resources
+D:\Formulário\Upload Imagem\obj\x86\Debug\Upload_Imagem.Properties.Resources.resources
+D:\Formulário\Upload Imagem\obj\x86\Debug\Formulario.csproj.GenerateResource.Cache
+E:\Formulário\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+E:\Formulário\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb

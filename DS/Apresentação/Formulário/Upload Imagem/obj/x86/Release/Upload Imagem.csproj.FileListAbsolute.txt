@@ -1,0 +1,3 @@
+D:\Upload Imagem\Upload Imagem\obj\x86\Release\Upload_Imagem.Form1.resources
+D:\Upload Imagem\Upload Imagem\obj\x86\Release\Upload_Imagem.Properties.Resources.resources
+D:\Upload Imagem\Upload Imagem\obj\x86\Release\Upload Imagem.csproj.GenerateResource.Cache

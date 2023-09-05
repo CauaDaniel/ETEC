@@ -1,0 +1,28 @@
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\bin\Debug\Upload Imagem.exe
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\bin\Debug\Upload Imagem.pdb
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\obj\x86\Debug\Upload_Imagem.Form1.resources
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\obj\x86\Debug\Upload_Imagem.Properties.Resources.resources
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\obj\x86\Debug\Upload Imagem.csproj.GenerateResource.Cache
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+C:\Users\LAB_02_MICRO02\AppData\Local\Temporary Projects\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb
+D:\DS\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+D:\DS\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb
+D:\DS\2bim\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+D:\DS\2bim\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb
+D:\DS\2bim\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload_Imagem.Form1.resources
+D:\DS\2bim\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload_Imagem.Properties.Resources.resources
+D:\DS\2bim\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.csproj.GenerateResource.Cache
+D:\DS\2bim\Upload Imagem\Upload Imagem\bin\Debug\Upload Imagem.exe
+D:\DS\2bim\Upload Imagem\Upload Imagem\bin\Debug\Upload Imagem.pdb
+C:\Users\LAB_02_MICRO02\Desktop\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+C:\Users\LAB_02_MICRO02\Desktop\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb
+C:\Users\LAB_02_MICRO02\Desktop\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload_Imagem.Form1.resources
+C:\Users\LAB_02_MICRO02\Desktop\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload_Imagem.Properties.Resources.resources
+C:\Users\LAB_02_MICRO02\Desktop\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.csproj.GenerateResource.Cache
+D:\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.exe
+D:\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.pdb
+D:\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload_Imagem.Form1.resources
+D:\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload_Imagem.Properties.Resources.resources
+D:\Upload Imagem\Upload Imagem\obj\x86\Debug\Upload Imagem.csproj.GenerateResource.Cache
+D:\Upload Imagem\Upload Imagem\bin\Debug\Upload Imagem.exe
+D:\Upload Imagem\Upload Imagem\bin\Debug\Upload Imagem.pdb
